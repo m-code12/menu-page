@@ -163,7 +163,7 @@ Example:
             transformPerspective: 1000, // Parent Transform Perspective
             lazyLoad: false, // Lazy Load Images (experimental)
             animateAll: false, // Animate elements outside of viewport?
-            reverse: true, // Allow elements reverse animation state?
+            reverse: false, // Allow elements reverse animation state?
             transformOrigin: '50% 50%', // Transform Origin X/Y Position
             x: 0, // Horizontal offset in px
             y: 0, // Vertical offset in px
@@ -177,7 +177,7 @@ Example:
             z: 0.1, // Z position
             force3D: true, // Force 3D Hardware
             easingType: 'Back.easeInOut', // Animation easing Type
-            duration: 0.3 // Animation diration in seconds
+            duration: 0.3 // Animation duration in seconds
         };
 
         //vars
