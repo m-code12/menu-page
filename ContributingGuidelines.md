@@ -115,3 +115,5 @@ $ git push -u origin Folder_Name
 
 Finally, go to your repository in browser and click on `compare and pull requests`.
 Then add a title and description to your pull request that explains your efforts.
+
+Congratulations you have successfully made your first contribution in this repo 🎉🚀.
