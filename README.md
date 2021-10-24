@@ -1,5 +1,5 @@
-# menu-page
+# This repository is a part of Hacktoberfest 2021.
 
-Menu Page of a restaurant
+## Meaningful contributions are welcome here!
 
-Website hosted at : https://m-code12.github.io/menu-page/
+
